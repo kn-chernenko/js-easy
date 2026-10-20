@@ -14,7 +14,7 @@ function countOccurrences(str, char) {
   return count;
 }
 
-// Приклади використання:
+
 console.log(countOccurrences("hello world", 'o')); 
 console.log(countOccurrences("banana", 'a'));       
 
